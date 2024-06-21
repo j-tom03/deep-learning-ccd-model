@@ -10,6 +10,8 @@ In the project I:
 
 The dataset used can be found in *CCD.xls*
 
+The full report can be found in *report.pdf*, outlining the entire process of development
+
 I completed this project whilst undertaking the ECM2423 module at the University of Exeter - full PDF specification can be found in *specification.pdf*
 
 The grade was determined based on the mark scheme detailed in the specification, giving weight to code quality, model quality and report quality
