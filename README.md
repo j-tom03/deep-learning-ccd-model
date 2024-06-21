@@ -14,4 +14,4 @@ I completed this project whilst undertaking the ECM2423 module at the University
 
 The grade was determined based on the mark scheme detailed in the specification, giving weight to code quality, model quality and report quality
 
-Grade - 100/100
+Grade - 87/100
